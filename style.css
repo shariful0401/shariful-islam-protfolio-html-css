@@ -21,7 +21,7 @@ h1 {
 }
 
 .half-width img {
-  width: 90%;
+  width: 80%;
 }
 
 .link-button {
@@ -61,7 +61,6 @@ h1 {
   
 }
 .experience-area{
-  height: 90%;
   background-image: url(image/exp-bg.png);
   background-repeat: no-repeat;
   background-position: left;
